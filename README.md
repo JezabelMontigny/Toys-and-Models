@@ -1,6 +1,6 @@
-## Projet Toys & Models
+# Projet Toys & Models
 
-# Présentation
+## Présentation
 
 Vous êtes mandaté par l'entreprise Toys & Models qui vend des modèles et des maquettes.
 
@@ -10,7 +10,7 @@ Vous êtes invité à explorer et découvrir cette base de données.
 
 Le directeur de l’entreprise souhaite avoir un tableau de bord qu’il pourrait actualiser chaque matin pour obtenir les dernières informations afin de gérer l’entreprise.
 
-# Objectif & Enjeux :
+## Objectif & Enjeux 
 
 Votre tableau de bord doit s’articuler autour de ces 4 sujets principaux : ventes, finances, logistique, et ressources humaines. Voici les indicateurs obligatoires qui doivent figurer dans votre tableau de bord. Il est recommandé de créer des KPI supplémentaires. Cette partie est très importante pour développer vos compétences/créativité en tant que data analyst
 
@@ -25,7 +25,20 @@ Ressources Humaines : Chaque mois, les 2 vendeurs ayant réalisé le plus de chi
 
 Il arrive parfois que certains indicateurs ne soient pas réalisables techniquement. C'est à vous d'expliquer pourquoi et de proposer vos propres idées pour répondre aux besoins métiers
 
-# Ressources
+## Ressources
 
 ![Schéma de la base de données](Schéma%20de%20la%20base%20de%20données.jpg)
+
+## Outils 
+
+Le directeur ne souhaite pas travailler avec SQL mais veut accéder aux données automatiquement et graphiquement.
+
+Vous pouvez proposer l’outil de votre choix (Power BI, Tableau, etc.), tant que le tableau de bord est pertinent.
+
+Base de données SQL : Vous avez le choix entre vous connecter au serveur cloud ou déployer le script localement. Les données sont identiques dans les deux cas.
+
+## Dashboard
+
+
+
 
