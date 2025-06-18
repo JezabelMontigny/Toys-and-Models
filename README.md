@@ -39,6 +39,11 @@ Base de données SQL : Vous avez le choix entre vous connecter au serveur cloud 
 
 ## Dashboard
 
+![Ventes](Ventes.jpg)
+![Finance](Finance.jpg)
+![Logistique](Logistique.jpg)
+![Ressources Humaines](Ressources%20Humaines.jpg)
+
 
 
 
