@@ -24,4 +24,5 @@ Il arrive parfois que certains indicateurs ne soient pas réalisables techniquem
 
 # Ressources
 
-![Capture d'écran](Schéma de la base de données.jpg)
+![Schéma de la base de données](Schéma%20de%20la%20base%20de%20données.jpg)
+
