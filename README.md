@@ -1,5 +1,7 @@
 # Projet Toys & Models
 
+![Image](image.jpg)
+
 ## Présentation
 
 Vous êtes mandaté par l'entreprise Toys & Models qui vend des modèles et des maquettes.
